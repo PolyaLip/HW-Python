@@ -1,0 +1,19 @@
+# Игнорировать виртуальное окружение
+venv/
+.env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы из Jupyter
+.ipynb_checkpoints/
+
+# Настройки IDE
+.vscode/
+.idea/
+
+# Системные файлы macOS
+.DS_Store
